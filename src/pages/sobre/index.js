@@ -5,7 +5,7 @@ import './style.css';
 function Sobre() {
     return (
         <div className='sobre'>
-            <h1>Sobre</h1>
+            Sobre
         </div>
     )
 }
