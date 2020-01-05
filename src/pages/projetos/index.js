@@ -2,16 +2,18 @@ import React from 'react';
 
 import './style.css';
 
-export default function Home() {
+function Projetos() {
     return (
         <div className='page'>
             <div className='content-item'>
 
                 <div className='titulo-page'>
-                    Home
+                    Projetos
                 </div>
 
             </div>
         </div>
     )
 }
+
+export default Projetos;

@@ -27,8 +27,9 @@ export default function App(){
 
             </header>
 
-
-            <Routes/>
+            <section>
+                <Routes/>
+            </section>
 
         </div>   
     )
